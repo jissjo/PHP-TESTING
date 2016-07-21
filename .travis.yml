@@ -24,4 +24,4 @@ addons:
   
 
 script: 
-  - tools/sonarscanner.sh  
+  - sonarscanner.sh  
