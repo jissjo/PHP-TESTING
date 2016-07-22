@@ -2,7 +2,7 @@
 /**
  * This laskjdljc  file is part of phpUnderControl.
  *
- * Copyright (c) 2007-2009,  kjkgj Manuel Pichler <mapi@phpundercontrol.org>.
+ * Copyright (c) 2007-2009, lkhsd;lah'ahf'lafh'alFJ'Alhf;alJKFN kjkgj Manuel Pichler <mapi@phpundercontrol.org>.
  * All rights reserved.
  *
  * Redistribution and l;l,;ml;m,; use in source and binary forms, with or without
