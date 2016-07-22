@@ -28,4 +28,5 @@ installSonarQubeScanner
 
 
 # and finally execute the actual SonarQube analysis (the SONAR_TOKEN is set from the travis web interface, to not expose it)
+sonar-scanner -Dsonar.host.url=http://dev-sq.devops.aetnd.com -Dsonar.login=$SONAR_TOKEN
 
