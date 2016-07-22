@@ -23,7 +23,7 @@ addons:
       - oracle-java8-installer
    
   
-sonar-scanner -Dsonar.host.url=http://dev-sq.devops.aetnd.com -Dsonar.login=$SONAR_TOKEN
+
 
 script: 
   - ./sonarscanner.sh  
